@@ -1,5 +1,5 @@
 # Coffee-Shop_Proje
-# Kahve Menüsü websitesi projemiz grid yapısını kullandığımız ve anlamamıza yardımcı olan bir proje oldu.
+ Kahve Menüsü websitesi projemiz grid yapısını kullandığımız ve anlamamıza yardımcı olan bir proje oldu.
 
 # Kullandığım Teknolojier
 -Html -Css
